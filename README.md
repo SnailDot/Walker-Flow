@@ -25,10 +25,6 @@ _____________________________________
 >
 > *link:* https://github.com/lincoln-lm/pokewalker-course-injector
 
-> **Dmitry:** The first deep dive into the pokewalker, can't dive deep into the pokewalker without it.
-> 
-> *Link:* https://dmitry.gr/?r=05.Projects&proj=28.%20pokewalker
-
 > **Pokewalker Scripts:** This is a github repo that has some scripts to handle converting the big//main pokemon sprite images, but it didn't fit the idea of what I had in mind for this project, so I used the infomation from those scripts to make my own conversion system
 >
 > *link:* https://github.com/S-len/Pokewalker-Scripts
