@@ -3,6 +3,8 @@ A program that allows you to easily hack the pokewalker
 
 Walker Flow is a python based program that allows you to easily do various pokewalker and pokewalker related tasks with the click of a button.
 
+[**_Need help with something? Check the walker flow wiki:_**](https://github.com/SnailDot/Walker-Flow/wiki/Custom-Pokemon-Sprites-Guide)
+
 ----------------------
 # Features:
 - Convert Route Images and pokemon sprites to and from the .bin format
