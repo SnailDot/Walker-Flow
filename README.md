@@ -1,4 +1,4 @@
-# Walker Flow v1.0
+# Walker Flow v2.0
 A program that allows you to easily hack the pokewalker
 
 Walker Flow is a python based program that allows you to easily do various pokewalker tasks with the click of a button
