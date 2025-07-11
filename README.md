@@ -22,7 +22,7 @@ Walker Flow is a python based program that allows you to easily do various pokew
 
 ----------------------
 
-# Other prorgrams you mightt need:
+# Other prorgrams you might need:
 - [**Tinke:**](https://github.com/pleonex/tinke) The tool used to add custom sprites to the pokewalker
 
 - [**DSPRE Reloaded:**](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/releases) The tool used to change the name and descriptions of the pokewalker's routes. *IMPORTANT:* *This tool is not needed for the custom route pokemon AR code*
