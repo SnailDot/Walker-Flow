@@ -8,6 +8,7 @@ Walker Flow is a python based program that allows you to easily do various pokew
 ----------------------
 # Features:
 - Convert Route Images and pokemon sprites to and from the .bin format
+- Will automically handle correcting any image's size and or colors to work on the pokewalker
 - Make action replay codes for custom routes through an easy to use UI
 - A button to check for walker flow updates
 
