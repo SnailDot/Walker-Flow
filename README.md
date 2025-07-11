@@ -20,6 +20,13 @@ Walker Flow is a python based program that allows you to easily do various pokew
 - Custom IR signals for watts, steps, gifts, deleting the pokewalker save, etc
 - Auto install custom sprites you convert to .bins with tinke through a single button click
 
+----------------------
+
+# Other prorgrams you mightt need:
+- [**Tinke:**](https://github.com/pleonex/tinke) The tool used to add custom sprites to the pokewalker
+
+- [**DSPRE Reloaded:**](https://github.com/AdAstra-LD/DS-Pokemon-Rom-Editor/releases) The tool used to change the name and descriptions of the pokewalker's routes. *IMPORTANT:* *This tool is not needed for the custom route pokemon AR code*
+
 _____________________________________
 # Credits:
 
